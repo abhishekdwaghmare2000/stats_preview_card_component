@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-TUOvHr3XM).
 
 ## Overview
 
@@ -16,8 +16,8 @@ Path to the solution of stats preview card component :-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-TUOvHr3XM)
+- Live Site URL: [Website](https://abhishekdwaghmare2000.github.io/stats_preview_card_component/)
 
 ## My process
 
@@ -44,5 +44,5 @@ I learned how to use flexbox and ordering elements while making responsive web d
 
 ## Author
 
-- Website - [Abhishek Waghmare](https://www.your-site.com)
-- Frontend Mentor - [@abhishekdwaghmare2000](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Abhishek Waghmare](https://abhishekdwaghmare2000.github.io/stats_preview_card_component/)
+- Frontend Mentor - [@abhishekdwaghmare2000](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-TUOvHr3XM)
