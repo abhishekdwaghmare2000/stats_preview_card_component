@@ -46,3 +46,8 @@ I learned how to use flexbox and ordering elements while making responsive web d
 
 - Website - [Abhishek Waghmare](https://abhishekdwaghmare2000.github.io/stats_preview_card_component/)
 - Frontend Mentor - [@abhishekdwaghmare2000](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-TUOvHr3XM)
+
+## Acknowledgment
+- I like to thank Buhaianu Remus from for suggesting improvements, mistakes and giving good tips.
+- I like to thank Grace for always encouraging to work with right path and also providing tips and suggesting improvements. 
+- I like to thank darryncodes from for suggesting mistakes and improvements.  
